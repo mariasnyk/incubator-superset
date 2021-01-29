@@ -94,7 +94,7 @@
     "@superset-ui/plugin-chart-word-cloud": "^0.15.13",
     "@superset-ui/preset-chart-xy": "^0.15.13",
     "@vx/responsive": "^0.0.195",
-    "abortcontroller-polyfill": "^1.1.9",
+    "abortcontroller-polyfill": "^1.5.0",
     "antd": "^4.8.2",
     "array-move": "^2.2.1",
     "bootstrap": "^3.4.1",
