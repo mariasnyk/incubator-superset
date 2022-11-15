@@ -25,7 +25,7 @@ click==7.1.2              # via apache-superset, flask, flask-appbuilder
 colorama==0.4.3           # via apache-superset, flask-appbuilder
 contextlib2==0.6.0.post1  # via apache-superset
 croniter==0.3.34          # via apache-superset
-cryptography==3.2.1       # via apache-superset
+cryptography==3.3.2       # via apache-superset
 decorator==4.4.2          # via retry
 defusedxml==0.6.0         # via python3-openid
 dnspython==2.0.0          # via email-validator
@@ -102,3 +102,4 @@ zipp==3.2.0               # via importlib-metadata
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
