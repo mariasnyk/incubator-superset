@@ -91,7 +91,7 @@ sqlalchemy-utils==0.36.8  # via apache-superset, flask-appbuilder
 sqlalchemy==1.3.19        # via alembic, apache-superset, flask-sqlalchemy, marshmallow-sqlalchemy, sqlalchemy-utils
 sqlparse==0.3.0           # via apache-superset
 typing-extensions==3.7.4.3  # via yarl
-urllib3==1.25.10          # via selenium
+urllib3==1.26.17          # via selenium
 vine==1.3.0               # via amqp, celery
 webencodings==0.5.1       # via bleach
 werkzeug==1.0.1           # via flask, flask-jwt-extended
