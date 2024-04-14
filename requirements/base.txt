@@ -46,7 +46,7 @@ geographiclib==1.50       # via geopy
 geopy==2.0.0              # via apache-superset
 gunicorn==20.0.4          # via apache-superset
 humanize==2.6.0           # via apache-superset
-idna==2.10                # via email-validator, yarl
+idna==3.7                # via email-validator, yarl
 importlib-metadata==1.7.0  # via -r requirements/base.in, jsonschema, kombu, markdown
 isodate==0.6.0            # via apache-superset
 itsdangerous==1.1.0       # via flask, flask-wtf
