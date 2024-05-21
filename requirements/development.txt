@@ -25,7 +25,7 @@ pillow==7.2.0             # via -r requirements/development.in
 psycopg2-binary==2.8.5    # via -r requirements/development.in
 pydruid==0.6.1            # via -r requirements/development.in
 pyhive[hive]==0.6.3       # via -r requirements/development.in
-requests==2.24.0          # via pydruid, tableschema, tabulator
+requests==2.32.0          # via pydruid, tableschema, tabulator
 rfc3986==1.4.0            # via tableschema
 s3transfer==0.3.3         # via boto3
 sasl==0.2.1               # via pyhive, thrift-sasl
