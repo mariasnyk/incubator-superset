@@ -44,7 +44,7 @@ flask-wtf==0.14.3         # via apache-superset, flask-appbuilder
 flask==1.1.2              # via apache-superset, flask-appbuilder, flask-babel, flask-caching, flask-compress, flask-jwt-extended, flask-login, flask-migrate, flask-openid, flask-sqlalchemy, flask-wtf
 geographiclib==1.50       # via geopy
 geopy==2.0.0              # via apache-superset
-gunicorn==20.0.4          # via apache-superset
+gunicorn==21.2.0          # via apache-superset
 humanize==2.6.0           # via apache-superset
 idna==2.10                # via email-validator, yarl
 importlib-metadata==1.7.0  # via -r requirements/base.in, jsonschema, kombu, markdown
