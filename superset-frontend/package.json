@@ -62,7 +62,7 @@
   "homepage": "https://superset.apache.org/",
   "dependencies": {
     "@ant-design/icons": "^4.2.2",
-    "@babel/runtime-corejs3": "^7.8.4",
+    "@babel/runtime-corejs3": "^7.26.10",
     "@data-ui/sparkline": "^0.0.84",
     "@emotion/core": "^10.0.35",
     "@superset-ui/chart-controls": "^0.15.13",
@@ -131,7 +131,7 @@
     "re-resizable": "^6.6.1",
     "react": "^16.13.1",
     "react-ace": "^5.10.0",
-    "react-bootstrap": "^0.33.1",
+    "react-bootstrap": "^1.0.0",
     "react-bootstrap-slider": "2.1.5",
     "react-checkbox-tree": "^1.5.1",
     "react-color": "^2.13.8",
