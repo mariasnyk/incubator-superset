@@ -58,7 +58,7 @@ markdown==3.2.2           # via apache-superset
 markupsafe==1.1.1         # via jinja2, mako, wtforms
 marshmallow-enum==1.5.1   # via flask-appbuilder
 marshmallow-sqlalchemy==0.23.1  # via flask-appbuilder
-marshmallow==3.8.0        # via flask-appbuilder, marshmallow-enum, marshmallow-sqlalchemy
+marshmallow==3.26.2        # via flask-appbuilder, marshmallow-enum, marshmallow-sqlalchemy
 msgpack==1.0.0            # via apache-superset
 multidict==4.7.6          # via aiohttp, yarl
 natsort==7.0.1            # via croniter
