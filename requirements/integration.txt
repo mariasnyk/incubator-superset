@@ -9,7 +9,7 @@ appdirs==1.4.4            # via virtualenv
 cfgv==3.2.0               # via pre-commit
 click==7.1.2              # via pip-compile-multi, pip-tools
 distlib==0.3.1            # via virtualenv
-filelock==3.0.12          # via tox, virtualenv
+filelock==3.20.3          # via tox, virtualenv
 identify==1.5.4           # via pre-commit
 importlib-metadata==1.7.0  # via pluggy, pre-commit, tox, virtualenv
 nodeenv==1.5.0            # via pre-commit
